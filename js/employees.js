@@ -71,8 +71,8 @@ var pawneeEmployees = [
         picUrl: 'img/jamm.jpg'
     },
     {
-        firstName: 'Knope',
-        lastName: 'Leslie',
+        firstName: 'Leslie',
+        lastName: 'Knope',
         title: 'Councilwoman',
         department: 'Council',
         phone: '555-2113',
